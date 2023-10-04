@@ -227,14 +227,6 @@
 
 > _IMPORTANTE:_ Apenas o Backend foi modificado e testado com o Swagger. 
 
-## Reporting security issues and bugs
-
-Security issues and bugs should be reported privately, via email, to Cooperchip (SAC) at <carlos.itdevelop@gmail.com>. You should receive a response within 72 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
-
-## Code of conduct
-
-This project has adopted the [Cooperchip Open Source Code of Conduct](https://cooperchip.com.br/).  For more information, see the [Code of Conduct FAQ](https://cooperchip.com.br/).
-
 ### Novas demandas:
 
 - [ ] Instalar, Configurar e Registrar o FluentValidation;
